@@ -1,0 +1,5 @@
+{
+  "name": "Void Drifter: EVE of Survival",
+  "description": "A roguelike survivor game inspired by Homeworld and EVE Online. Customize your ship with modules, manage CPU/PG, traverse a sector map, and survive waves of enemies using the Gemini API for dynamic events.",
+  "requestFramePermissions": []
+}
